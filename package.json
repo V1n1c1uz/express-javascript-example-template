@@ -1,0 +1,14 @@
+{
+  "name": "defaultapi",
+  "version": "1.0.0",
+  "description": "Api para testar hospedagem antes de subir realmente o projeto",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "V1n1c1uz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
