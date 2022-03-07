@@ -4,8 +4,7 @@
 
 <br>
 
-<img src='https://camo.githubusercontent.com/dcd659b663d435f59bf584fbb29afa630abbb82506ce99982a7a0a0255fe0ea7/68747470733a2f2f63646e6a732e636c6f7564666c6172652e636f6d2f616a61782f6c6962732f666c61672d69636f6e2d6373732f332e332e302f666c6167732f3478332f75732e737667' height="14em">
-In this simple repository I create a template of an api made with Javascript using the famous express, a structured web framework. In this first update I didn't put the structure already with the database in the next updates I will add it, if anyone is interested in adding just open a pull request, which I will evaluate and accept ❤️.
+<img src='https://camo.githubusercontent.com/dcd659b663d435f59bf584fbb29afa630abbb82506ce99982a7a0a0255fe0ea7/68747470733a2f2f63646e6a732e636c6f7564666c6172652e636f6d2f616a61782f6c6962732f666c61672d69636f6e2d6373732f332e332e302f666c6167732f3478332f75732e737667' height="14em">In this simple repository I create a template of an api made with Javascript using the famous express, a structured web framework. In this first update I didn't put the structure already with the database in the next updates I will add it, if anyone is interested in adding just open a pull request, which I will evaluate and accept ❤️.
 
 <br>
 
